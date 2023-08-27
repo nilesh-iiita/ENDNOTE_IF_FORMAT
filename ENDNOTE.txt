@@ -1,0 +1,850 @@
+﻿Reference Type:  Journal Article
+Record Number: 974
+Author: Umfress, A., Chakraborti, A., Priya Sudarsana Devi, S., Adams, R., Epstein, D., Massicano, A., Sorace, A., Singh, S., Iqbal Hossian, M., Andrabi, S. A., Crossman, D. K., Kumar, N., Shahid Mukhtar, M., Luo, H., Simpson, C., Abell, K., Stokes, M., Wiederhold, T., Rosen, C., Lu, H., Natarajan, A. and Bibb, J. A.
+Year: 2023
+Title: Cdk5 mediates rotational force-induced brain injury
+Journal: Sci Rep
+Volume: 13
+Issue: 1
+Pages: 3394
+Epub Date: 20230228
+Date: Feb 28
+Short Title: Cdk5 mediates rotational force-induced brain injury
+ISSN: 2045-2322 (Electronic)
+2045-2322 (Linking)
+DOI: 10.1038/s41598-023-29322-4
+Legal Note: The authors declare no competing interests.
+PMCID: PMC9974974
+Accession Number: 36854738
+Keywords: Animals
+Rats
+Brain
+Brain Injuries/genetics/metabolism
+*Brain Injuries, Traumatic/genetics/metabolism
+*Craniocerebral Trauma/genetics/metabolism
+*Cyclin-Dependent Kinase 5/metabolism
+Abstract: Millions of traumatic brain injuries (TBIs) occur annually. TBIs commonly result from falls, traffic accidents, and sports-related injuries, all of which involve rotational acceleration/deceleration of the brain. During these injuries, the brain endures a multitude of primary insults including compression of brain tissue, damaged vasculature, and diffuse axonal injury. All of these deleterious effects can contribute to secondary brain ischemia, cellular death, and neuroinflammation that progress for weeks, months, and lifetime after injury. While the linear effects of head trauma have been extensively modeled, less is known about how rotational injuries mediate neuronal damage following injury. Here, we developed a new model of repetitive rotational head trauma in rodents and demonstrated acute and prolonged pathological, behavioral, and electrophysiological effects of rotational TBI (rTBI). We identify aberrant Cyclin-dependent kinase 5 (Cdk5) activity as a principal mediator of rTBI. We utilized Cdk5-enriched phosphoproteomics to uncover potential downstream mediators of rTBI and show pharmacological inhibition of Cdk5 reduces the cognitive and pathological consequences of injury. These studies contribute meaningfully to our understanding of the mechanisms of rTBI and how they may be effectively treated.
+Notes: Umfress, Alan
+Chakraborti, Ayanabha
+Priya Sudarsana Devi, Suma
+Adams, Raegan
+Epstein, Daniel
+Massicano, Adriana
+Sorace, Anna
+Singh, Sarbjit
+Iqbal Hossian, M
+Andrabi, Shaida A
+Crossman, David K
+Kumar, Nilesh
+Shahid Mukhtar, M
+Luo, Huiyang
+Simpson, Claire
+Abell, Kathryn
+Stokes, Matthew
+Wiederhold, Thorsten
+Rosen, Charles
+Lu, Hongbing
+Natarajan, Amarnath
+Bibb, James A
+eng
+P30 DA018343/DA/NIDA NIH HHS/
+NS061788/NS/NINDS NIH HHS/
+NS073855/NH/NIH HHS/
+DA018343/NH/NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+England
+2023/03/01
+Sci Rep. 2023 Feb 28;13(1):3394. doi: 10.1038/s41598-023-29322-4.
+Research Notes: IF:4.6
+URL: https://www.ncbi.nlm.nih.gov/pubmed/36854738
+Author Address: Department of Surgery, University of Alabama at Birmingham, Birmingham, AL, USA.
+Department of Translational Neuroscience, University of Arizona College of Medicine in Phoeni, Biomedical Sciences Partnership Bldg, Phoenix, AZ, 85004 , USA.
+Department of Radiology, University of Alabama at Birmingham, Birmingham, AL, USA.
+Eppley Institute for Research in Cancer and Allied Diseases University of Nebraska Medical Center, Omaha, NE, USA.
+Department of Pharmacology and Toxicology, University of Alabama at Birmingham, Birmingham, AL, USA.
+Department of Genetics, University of Alabama at Birmingham, Birmingham, AL, USA.
+Department of Biology, University of Alabama at Birmingham, Birmingham, AL, USA.
+Karagozian & Case, Inc., Glendale, CA, USA.
+Cell Signaling Technology, Danvers, MA, USA.
+OSF Healthcare Illinois Neurological Institute, Peoria, IL, USA.
+Department of Mechanical Engineering, University of Texas at Dallas, Dallas, TX, USA.
+Department of Translational Neuroscience, University of Arizona College of Medicine in Phoeni, Biomedical Sciences Partnership Bldg, Phoenix, AZ, 85004 , USA. jbibb@arizona.edu.
+Name of Database: Medline
+Database Provider: NLM
+
+
+Reference Type:  Journal Article
+Record Number: 987
+Author: Kumar, N. and Mukhtar, M. S.
+Year: 2023
+Title: Ranking Plant Network Nodes Based on Their Centrality Measures
+Journal: Entropy (Basel)
+Volume: 25
+Issue: 4
+Epub Date: 20230418
+Date: Apr 18
+Short Title: Ranking Plant Network Nodes Based on Their Centrality Measures
+ISSN: 1099-4300 (Electronic)
+1099-4300 (Linking)
+DOI: 10.3390/e25040676
+Legal Note: The authors declare no conflict of interest.
+PMCID: PMC10137616
+Accession Number: 37190464
+Keywords: centrality
+graph
+network
+plant
+ranking
+Abstract: Biological networks are often large and complex, making it difficult to accurately identify the most important nodes. Node prioritization algorithms are used to identify the most influential nodes in a biological network by considering their relationships with other nodes. These algorithms can help us understand the functioning of the network and the role of individual nodes. We developed CentralityCosDist, an algorithm that ranks nodes based on a combination of centrality measures and seed nodes. We applied this and four other algorithms to protein-protein interactions and co-expression patterns in Arabidopsis thaliana using pathogen effector targets as seed nodes. The accuracy of the algorithms was evaluated through functional enrichment analysis of the top 10 nodes identified by each algorithm. Most enriched terms were similar across algorithms, except for DIAMOnD. CentralityCosDist identified more plant-pathogen interactions and related functions and pathways compared to the other algorithms.
+Notes: Kumar, Nilesh
+Mukhtar, M Shahid
+eng
+IOS-2038872/National Science Foundation/
+Switzerland
+2023/05/16
+Entropy (Basel). 2023 Apr 18;25(4):676. doi: 10.3390/e25040676.
+Research Notes: IF:2.7
+URL: https://www.ncbi.nlm.nih.gov/pubmed/37190464
+Author Address: Department of Biology, University of Alabama at Birmingham, Birmingham, AL 35294, USA.
+Name of Database: PubMed-not-MEDLINE
+Database Provider: NLM
+
+
+Reference Type:  Journal Article
+Record Number: 988
+Author: Kumar, N., Mishra, B. K., Liu, J., Mohan, B., Thingujam, D., Pajerowska-Mukhtar, K. M. and Mukhtar, M. S.
+Year: 2023
+Title: Network Biology Analyses and Dynamic Modeling of Gene Regulatory Networks under Drought Stress Reveal Major Transcriptional Regulators in Arabidopsis
+Journal: Int J Mol Sci
+Volume: 24
+Issue: 8
+Epub Date: 20230416
+Date: Apr 16
+Short Title: Network Biology Analyses and Dynamic Modeling of Gene Regulatory Networks under Drought Stress Reveal Major Transcriptional Regulators in Arabidopsis
+ISSN: 1422-0067 (Electronic)
+1422-0067 (Linking)
+DOI: 10.3390/ijms24087349
+Legal Note: The authors declare no conflict of interest.
+PMCID: PMC10139068
+Accession Number: 37108512
+Keywords: *Arabidopsis/genetics/metabolism
+Gene Regulatory Networks
+Droughts
+Transcription Factors/metabolism
+Systems Biology
+Gene Expression Regulation, Plant
+Stress, Physiological/genetics
+Arabidopsis
+co-expression network
+computational simulation
+drought
+network centrality
+transcriptional regulation
+water deprivation
+Abstract: Drought is one of the most serious abiotic stressors in the environment, restricting agricultural production by reducing plant growth, development, and productivity. To investigate such a complex and multifaceted stressor and its effects on plants, a systems biology-based approach is necessitated, entailing the generation of co-expression networks, identification of high-priority transcription factors (TFs), dynamic mathematical modeling, and computational simulations. Here, we studied a high-resolution drought transcriptome of Arabidopsis. We identified distinct temporal transcriptional signatures and demonstrated the involvement of specific biological pathways. Generation of a large-scale co-expression network followed by network centrality analyses identified 117 TFs that possess critical properties of hubs, bottlenecks, and high clustering coefficient nodes. Dynamic transcriptional regulatory modeling of integrated TF targets and transcriptome datasets uncovered major transcriptional events during the course of drought stress. Mathematical transcriptional simulations allowed us to ascertain the activation status of major TFs, as well as the transcriptional intensity and amplitude of their target genes. Finally, we validated our predictions by providing experimental evidence of gene expression under drought stress for a set of four TFs and their major target genes using qRT-PCR. Taken together, we provided a systems-level perspective on the dynamic transcriptional regulation during drought stress in Arabidopsis and uncovered numerous novel TFs that could potentially be used in future genetic crop engineering programs.
+Notes: Kumar, Nilesh
+Mishra, Bharat K
+Liu, Jinbao
+Mohan, Binoop
+Thingujam, Doni
+Pajerowska-Mukhtar, Karolina M
+Mukhtar, M Shahid
+eng
+IOS-1557796, IOS-2038872, IOS-1350244/National Science Foundation/
+Switzerland
+2023/04/28
+Int J Mol Sci. 2023 Apr 16;24(8):7349. doi: 10.3390/ijms24087349.
+Research Notes: IF:6.2
+URL: https://www.ncbi.nlm.nih.gov/pubmed/37108512
+Author Address: Department of Biology, 464 Campbell Hall, University of Alabama at Birmingham, 1300 University Boulevard, Birmingham, AL 35294, USA.
+Nutrition Obesity Research Center, University of Alabama at Birmingham, 1675 University Boulevard, Birmingham, AL 35294, USA.
+Department of Surgery, University of Alabama at Birmingham, 1808 7th Ave S, Birmingham, AL 35294, USA.
+Name of Database: Medline
+Database Provider: NLM
+
+
+Reference Type:  Journal Article
+Record Number: 976
+Author: Mishra, B., Kumar, N. and Shahid Mukhtar, M.
+Year: 2022
+Title: A rice protein interaction network reveals high centrality nodes and candidate pathogen effector targets
+Journal: Comput Struct Biotechnol J
+Volume: 20
+Pages: 2001-2012
+Epub Date: 20220421
+Short Title: A rice protein interaction network reveals high centrality nodes and candidate pathogen effector targets
+ISSN: 2001-0370 (Print)
+2001-0370 (Electronic)
+2001-0370 (Linking)
+DOI: 10.1016/j.csbj.2022.04.027
+PMCID: PMC9062363
+Accession Number: 35521542
+Keywords: AI-1MAIN, Arabidopsis interactome-1 MAIN
+BB, bacterial blight
+BC, betweenness centrality
+BLS, bacterial leaf streak
+Biotic stress
+EAI, effector-activated immunity
+EAS, effector-activated susceptibility
+EC, eigenvector centrality
+ETI, effector-triggered immunity
+ETS, effector-triggered susceptibility
+FDR, False discovery rate
+GEO, gene expression omnibus
+GRN, gene-regulatory network
+IC, information centrality
+Infection
+Interactome
+Oryzae
+PPI, protein-protein interaction
+PTI, pattern-triggered immunity
+Plant-pathogen interactions
+Prioritization
+RDP, degree-preserving random network
+RIXIN, rice-Xanthomonas interactome
+RXICoNet, rice-Xanthomonas interaction co-expression network
+RicePPInets, Rice protein-protein interaction network
+T3S, type III secretion system
+TAL, transcription activator-like
+WGCNA, weighted co-expression network analysis
+Xoc, Xanthomonas oryzae pv. oryzicola
+Xoo, Xanthomonas oryzae pv. oryzae
+Abstract: Network science identifies key players in diverse biological systems including host-pathogen interactions. We demonstrated a scale-free network property for a comprehensive rice protein-protein interactome (RicePPInets) that exhibits nodes with increased centrality indices. While weighted k-shell decomposition was shown efficacious to predict pathogen effector targets in Arabidopsis, we improved its computational code for a broader implementation on large-scale networks including RicePPInets. We determined that nodes residing within the internal layers of RicePPInets are poised to be the most influential, central, and effective information spreaders. To identify central players and modules through network topology analyses, we integrated RicePPInets and co-expression networks representing susceptible and resistant responses to strains of the bacterial pathogens Xanthomonas oryzae pv. oryzae and X. oryzae pv. oryzicola (Xoc) and generated a RIce-Xanthomonas INteractome (RIXIN). This revealed that previously identified candidate targets of pathogen transcription activator-like (TAL) effectors are enriched in nodes with enhanced connectivity, bottlenecks, and information spreaders that are located in the inner layers of the network, and these nodes are involved in several important biological processes. Overall, our integrative multi-omics network-based platform provides a potentially useful approach to prioritizing candidate pathogen effector targets for functional validation, suggesting that this computational framework can be broadly translatable to other complex pathosystems.
+Notes: Mishra, Bharat
+Kumar, Nilesh
+Shahid Mukhtar, M
+eng
+Netherlands
+2022/05/07
+Comput Struct Biotechnol J. 2022 Apr 21;20:2001-2012. doi: 10.1016/j.csbj.2022.04.027. eCollection 2022.
+Research Notes: IF:6.3
+URL: https://www.ncbi.nlm.nih.gov/pubmed/35521542
+Author Address: Department of Biology, University of Alabama at Birmingham, 1300 University Blvd., Birmingham, AL 35294, USA.
+Nutrition Obesity Research Center, University of Alabama at Birmingham, 1300 University Blvd., Birmingham, AL 35294, USA.
+General Surgery Gastrointestinal Section, Department of Surgery, UAB School of Medicine, Birmingham, AL 35294, USA.
+Name of Database: PubMed-not-MEDLINE
+Database Provider: NLM
+
+
+Reference Type:  Journal Article
+Record Number: 990
+Author: Kumar, N., Mishra, B. and Mukhtar, M. S.
+Year: 2022
+Title: A pipeline of integrating transcriptome and interactome to elucidate central nodes in host-pathogens interactions
+Journal: STAR Protoc
+Volume: 3
+Issue: 3
+Pages: 101608
+Epub Date: 20220806
+Date: Sep 16
+Short Title: A pipeline of integrating transcriptome and interactome to elucidate central nodes in host-pathogens interactions
+ISSN: 2666-1667 (Electronic)
+2666-1667 (Linking)
+DOI: 10.1016/j.xpro.2022.101608
+Legal Note: The authors declare no competing interests.
+PMCID: PMC9386103
+Accession Number: 35990739
+Keywords: Host-Pathogen Interactions/genetics
+Humans
+Signal Transduction
+*Transcriptome/genetics
+*Viruses/genetics
+Bioinformatics
+Genomics
+Immunology
+Microbiology
+Systems biology
+Abstract: Investigating the complexity of host-pathogen interactions is challenging. Here, we outline a pipeline to identify important proteins and signaling molecules in human-viral interactomes. Firstly, we curate a comprehensive human interactome. Subsequently, we infer viral targets and transcriptome-specific human interactomes (VTTSHI) for papillomavirus and herpes viruses by integrating viral targets and transcriptome data. Finally, we reveal the common and shared nodes and pathways in viral pathogenesis following network topology and pathway enrichment analyses. For complete details on the use and execution of this protocol, please refer to Kumar et al. (2020).
+Notes: Kumar, Nilesh
+Mishra, Bharat
+Mukhtar, M Shahid
+eng
+Research Support, U.S. Gov't, Non-P.H.S.
+2022/08/23
+STAR Protoc. 2022 Aug 6;3(3):101608. doi: 10.1016/j.xpro.2022.101608. eCollection 2022 Sep 16.
+Research Notes: IF:1.48
+URL: https://www.ncbi.nlm.nih.gov/pubmed/35990739
+Author Address: Department of Biology, University of Alabama at Birmingham, Birmingham, AL 35294, USA. Electronic address: nileshkr@uab.edu.
+Department of Biology, University of Alabama at Birmingham, Birmingham, AL 35294, USA.
+Department of Biology, University of Alabama at Birmingham, Birmingham, AL 35294, USA. Electronic address: smukhtar@uab.edu.
+Name of Database: Medline
+Database Provider: NLM
+
+
+Reference Type:  Journal Article
+Record Number: 1000
+Author: Yoshino, Y., Roy, B., Kumar, N., Shahid Mukhtar, M. and Dwivedi, Y.
+Year: 2021
+Title: Molecular pathology associated with altered synaptic transcriptome in the dorsolateral prefrontal cortex of depressed subjects
+Journal: Transl Psychiatry
+Volume: 11
+Issue: 1
+Pages: 73
+Epub Date: 20210122
+Date: Jan 22
+Short Title: Molecular pathology associated with altered synaptic transcriptome in the dorsolateral prefrontal cortex of depressed subjects
+ISSN: 2158-3188 (Electronic)
+2158-3188 (Linking)
+DOI: 10.1038/s41398-020-01159-9
+Legal Note: The authors declare that they have no conflict of interest.
+PMCID: PMC7822869
+Accession Number: 33483466
+Keywords: Brain
+*Depressive Disorder, Major/genetics
+Humans
+Pathology, Molecular
+Prefrontal Cortex
+*Transcriptome
+Abstract: Disrupted synaptic plasticity is the hallmark of major depressive disorder (MDD), with accompanying changes at the molecular and cellular levels. Often, the maladaptive molecular changes at the synapse are the result of global transcriptional reprogramming dictated by activity-dependent synaptic modulation. Thus far, no study has directly studied the transcriptome-wide expression changes locally at the synapse in MDD brain. Here, we have examined altered synaptic transcriptomics and their functional relevance in MDD with a focus on the dorsolateral prefrontal cortex (dlPFC). RNA was isolated from total fraction and purified synaptosomes of dlPFC from well-matched 15 non-psychiatric controls and 15 MDD subjects. Transcriptomic changes in synaptic and total fractions were detected by next-generation RNA-sequencing (NGS) and analyzed independently. The ratio of synaptic/total fraction was estimated to evaluate a shift in gene expression ratio in MDD subjects. Bioinformatics and network analyses were used to determine the biological relevance of transcriptomic changes in both total and synaptic fractions based on gene-gene network, gene ontology (GO), and pathway prediction algorithms. A total of 14,005 genes were detected in total fraction. A total of 104 genes were differentially regulated (73 upregulated and 31 downregulated) in MDD group based on 1.3-fold change threshold and p < 0.05 criteria. In synaptosomes, out of 13,236 detectable genes, 234 were upregulated and 60 were downregulated (>1.3-fold, p < 0.05). Several of these altered genes were validated independently by a quantitative polymerase chain reaction (qPCR). GO revealed an association with immune system processes and cell death. Moreover, a cluster of genes belonged to the nervous system development, and psychological disorders were discovered using gene-gene network analysis. The ratio of synaptic/total fraction showed a shift in expression of 119 genes in MDD subjects, which were primarily associated with neuroinflammation, interleukin signaling, and cell death. Our results suggest not only large-scale gene expression changes in synaptosomes, but also a shift in the expression of genes from total to synaptic fractions of dlPFC of MDD subjects with their potential role in immunomodulation and cell death. Our findings provide new insights into the understanding of transcriptomic regulation at the synapse and their possible role in MDD pathogenesis.
+Notes: Yoshino, Yuta
+Roy, Bhaskar
+Kumar, Nilesh
+Shahid Mukhtar, M
+Dwivedi, Yogesh
+eng
+R01 MH107183/MH/NIMH NIH HHS/
+Research Support, N.I.H., Extramural
+2021/01/24
+Transl Psychiatry. 2021 Jan 22;11(1):73. doi: 10.1038/s41398-020-01159-9.
+Research Notes: IF:7
+URL: https://www.ncbi.nlm.nih.gov/pubmed/33483466
+Author Address: Department of Psychiatry and Behavioral Neurobiology, University of Alabama at Birmingham, Birmingham, AL, 35294, USA.
+Department of Biology, University of Alabama at Birmingham, Birmingham, AL, 35294, USA.
+Department of Psychiatry and Behavioral Neurobiology, University of Alabama at Birmingham, Birmingham, AL, 35294, USA. yogeshdwivedi@uabmc.edu.
+Name of Database: Medline
+Database Provider: NLM
+
+
+Reference Type:  Journal Article
+Record Number: 998
+Author: Verma, N., Kumar, N., Mishra, P. and Purohit, N.
+Year: 2021
+Title: Profound implications of COVID-19 pandemic lockdown on the Earth's ecosystem: a case study using remote sensing data
+Journal: Current Science
+Volume: 121
+Issue: 1
+Pages: 115-120
+Date: Jul 10
+Short Title: Profound implications of COVID-19 pandemic lockdown on the Earth's ecosystem: a case study using remote sensing data
+Alternate Journal: Curr Sci India
+ISSN: 0011-3891
+DOI: 10.18520/cs/v121/i1/115-120
+Accession Number: WOS:000671547300033
+Keywords: case study
+covid-19 pandemic
+environmental parameters
+lockdown impact
+remote sensing data
+nitrogen-dioxide
+land
+Abstract: The suddenly enforced COVID-19 pandemic lockdown has impacted the Earth's environment, and several studies have reported a significant change in air pollution using remote sensing data. In this study, we highlight significant changes in the environment due to reduced human activities using MODIS, Sentinel-5 and NASA-USDA/SMAP satellite data. Critical parameters such as nitrogen dioxide, land surface temperature, surface soil moisture and normalized difference vegetation index were compared (pre-pandemic and post-pandemic) for six highly impacted cities around the world. This study is crucial for environmental management to maintain sustainability of the Earth's ecosystem.
+Notes: Tg6yh
+Times Cited:0
+Cited References Count:27
+Research Notes: IF:1.169
+URL: <Go to ISI>://WOS:000671547300033
+Author Address: Indian Inst Informat Technol Allahabad, Dept Elect & Commun Engn, Prayagraj 211015, India
+Univ Alabama Birmingham, Dept Biol, 1300 Univ Blvd, Birmingham, AL 35294 USA
+Language: English
+
+Reference Type:  Journal Article
+Record Number: 501
+Author: Mishra, B., Kumar, N. and Mukhtar, M. S.
+Year: 2021
+Title: Network biology to uncover functional and structural properties of the plant immune system
+Journal: Curr Opin Plant Biol
+Volume: 62
+Pages: 102057
+Epub Date: 20210605
+Date: Aug
+Short Title: Network biology to uncover functional and structural properties of the plant immune system
+ISSN: 1879-0356 (Electronic)
+1369-5266 (Linking)
+DOI: 10.1016/j.pbi.2021.102057
+Legal Note: Declaration of competing interest The authors declare no conflict of interest.
+Accession Number: 34102601
+Keywords: Biology
+*Plant Immunity/genetics
+*Plants/genetics
+Host-microbe interaction
+Integration
+Multiomics
+Network topology
+Plant immunity
+Systems biology
+Abstract: In the last two decades, advances in network science have facilitated the discovery of important systems' entities in diverse biological networks. This graph-based technique has revealed numerous emergent properties of a system that enable us to understand several complex biological processes including plant immune systems. With the accumulation of multiomics data sets, the comprehensive understanding of plant-pathogen interactions can be achieved through the analyses and efficacious integration of multidimensional qualitative and quantitative relationships among the components of hosts and their microbes. This review highlights comparative network topology analyses in plant-pathogen co-expression networks and interactomes, outlines dynamic network modeling for cell-specific immune regulatory networks, and discusses the new frontiers of single-cell sequencing as well as multiomics data integration that are necessary for unraveling the intricacies of plant immune systems.
+Notes: Mishra, Bharat
+Kumar, Nilesh
+Mukhtar, M Shahid
+eng
+Research Support, U.S. Gov't, Non-P.H.S.
+Review
+England
+2021/06/09
+Curr Opin Plant Biol. 2021 Aug;62:102057. doi: 10.1016/j.pbi.2021.102057. Epub 2021 Jun 5.
+Research Notes: IF:9.8
+URL: https://www.ncbi.nlm.nih.gov/pubmed/34102601
+Author Address: Department of Biology, University of Alabama at Birmingham, 1300 University Blvd., Birmingham, AL, 35294, USA.
+Department of Biology, University of Alabama at Birmingham, 1300 University Blvd., Birmingham, AL, 35294, USA. Electronic address: smukhtar@uab.edu.
+Name of Database: Medline
+Database Provider: NLM
+
+
+Reference Type:  Journal Article
+Record Number: 997
+Author: Carter, A. M., Kumar, N., Herring, B., Tan, C., Guenter, R., Telange, R., Howse, W., Viol, F., McCaw, T. R., Bickerton, H. H., Gupta, P., Gillardon, F., Woltering, E. A., Dhall, D., Totenhagen, J., Banerjee, R. R., Kurian, E. M., Reddy, S., Chen, H., Schrader, J., Bart Rose, J., Mukhtar, M. S. and Bibb, J. A.
+Year: 2021
+Title: Cdk5 drives formation of heterogeneous pancreatic neuroendocrine tumors
+Journal: Oncogenesis
+Volume: 10
+Issue: 12
+Pages: 83
+Epub Date: 20211203
+Date: Dec 3
+Short Title: Cdk5 drives formation of heterogeneous pancreatic neuroendocrine tumors
+ISSN: 2157-9024 (Print)
+2157-9024 (Electronic)
+2157-9024 (Linking)
+DOI: 10.1038/s41389-021-00372-5
+Legal Note: The authors declare no competing interests.
+PMCID: PMC8642406
+Accession Number: 34862365
+Abstract: Pancreatic neuroendocrine tumors (PanNETs) are a heterogeneous population of neoplasms that arise from hormone-secreting islet cells of the pancreas and have increased markedly in incidence over the past four decades. Non-functional PanNETs, which occur more frequently than hormone-secreting tumors, are often not diagnosed until later stages of tumor development and have poorer prognoses. Development of successful therapeutics for PanNETs has been slow, partially due to a lack of diverse animal models for pre-clinical testing. Here, we report development of an inducible, conditional mouse model of PanNETs by using a bi-transgenic system for regulated expression of the aberrant activator of Cdk5, p25, specifically in beta-islet cells. This model produces a heterogeneous population of PanNETs that includes a subgroup of well-differentiated, non-functional tumors. Production of these tumors demonstrates the causative potential of aberrantly active Cdk5 for generation of PanNETs. Further, we show that human PanNETs express Cdk5 pathway components, are dependent on Cdk5 for growth, and share genetic and transcriptional overlap with the INS-p25OE model. The utility of this model is enhanced by the ability to form tumor-derived allografts. This new model of PanNETs will facilitate molecular delineation of Cdk5-dependent PanNETs and the development of new targeted therapeutics.
+Notes: Carter, Angela M
+Kumar, Nilesh
+Herring, Brendon
+Tan, Chunfeng
+Guenter, Rachael
+Telange, Rahul
+Howse, Wayne
+Viol, Fabrice
+McCaw, Tyler R
+Bickerton, Hayden H
+Gupta, Priyanka
+Gillardon, Frank
+Woltering, Eugene A
+Dhall, Deepti
+Totenhagen, John
+Banerjee, Ronadip R
+Kurian, Elizabeth M
+Reddy, Sushanth
+Chen, Herbert
+Schrader, Joerg
+Bart Rose, J
+Mukhtar, M Shahid
+Bibb, James A
+eng
+DA033485-01/U.S. Department of Health & Human Services | NIH | National Institute on Drug Abuse (NIDA)/
+R56MH116896/U.S. Department of Health & Human Services | NIH | National Institute of Mental Health (NIMH)/
+P30 DK079626/DK/NIDDK NIH HHS/
+MH083711-01/U.S. Department of Health & Human Services | NIH | National Institute of Mental Health (NIMH)/
+NS073855-01/U.S. Department of Health & Human Services | NIH | National Institute of Neurological Disorders and Stroke (NINDS)/
+R01 DA033485/DA/NIDA NIH HHS/
+R01 NS073855/NS/NINDS NIH HHS/
+R56 MH116896/MH/NIMH NIH HHS/
+K08 CA234209/CA/NCI NIH HHS/
+Scholars Award/American Cancer Society (American Cancer Society, Inc.)/
+PF-15-200-01-TBG/American Cancer Society (American Cancer Society, Inc.)/
+2021/12/05
+Oncogenesis. 2021 Dec 3;10(12):83. doi: 10.1038/s41389-021-00372-5.
+Research Notes: IF:6.8
+URL: https://www.ncbi.nlm.nih.gov/pubmed/34862365
+Author Address: Department of Surgery, University of Alabama at Birmingham, Birmingham, AL, 35233, USA. angelamcarter@uabmc.edu.
+Department of Biology, University of Alabama at Birmingham, Birmingham, AL, 35233, USA.
+Department of Surgery, University of Alabama at Birmingham, Birmingham, AL, 35233, USA.
+Department of Psychiatry, University of Texas Southwestern Medical Center, Dallas, TX, 75390, USA.
+Department of Internal Medicine, University Hospital Hamburg-Eppendorf, Hamburg, 20246, Germany.
+Department of Medicine, University of Alabama at Birmingham, Birmingham, AL, 35233, USA.
+UAB Comprehensive Diabetes Center, University of Alabama at Birmingham, Birmingham, AL, 35233, USA.
+Boehringer Ingelheim Pharma GmbH & Co. KG, CNS Diseases Research, Birkendorferstrasse 65, 88397, Biberach an der Riss, Germany.
+Department of Surgery, Louisiana State University Health Sciences Center, New Orleans, LA, 70112, USA.
+Department of Anatomic Pathology, University of Alabama at Birmingham, Birmingham, AL, 35233, USA.
+Department of Radiology, University of Alabama at Birmingham, Birmingham, AL, 35233, USA.
+Department of Medicine, Division of Endocrinology, Diabetees & Metabolism, Johs Hopkins school of Medicine, Baltimore, MD, 21224, USA.
+Department of Pathology, University of Texas Southwestern Medical Center, Dallas, TX, 75390, USA.
+O'Neal Comprehensive Cancer Center, University of Alabama at Birmingham, Birmingham, AL, 35233, USA.
+Department of Surgery, University of Alabama at Birmingham, Birmingham, AL, 35233, USA. jbibb@uab.edu.
+O'Neal Comprehensive Cancer Center, University of Alabama at Birmingham, Birmingham, AL, 35233, USA. jbibb@uab.edu.
+Name of Database: PubMed-not-MEDLINE
+Database Provider: NLM
+
+
+Reference Type:  Journal Article
+Record Number: 134
+Author: Kumar, N., Mishra, B., Mehmood, A., Mohammad, Athar and Mukhtar, M. Shahid
+Year: 2020
+Title: Integrative Network Biology Framework Elucidates Molecular Mechanisms of SARS-CoV-2 Pathogenesis
+Journal: iScience
+Volume: 23
+Issue: 9
+Pages: 101526
+Epub Date: 20200903
+Date: Sep 25
+Short Title: Integrative Network Biology Framework Elucidates Molecular Mechanisms of SARS-CoV-2 Pathogenesis
+ISSN: 2589-0042 (Electronic)
+2589-0042 (Linking)
+DOI: 10.1016/j.isci.2020.101526
+Legal Note: The authors declare no competing interests. The authors also declare no financial interests.
+PMCID: PMC7468341
+Accession Number: 32895641
+Keywords: Omics
+Virology
+Abstract: COVID-19 (coronavirus disease 2019) is a respiratory illness caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Although the pathophysiology of this virus is complex and largely unknown, we employed a network-biology-fueled approach and integrated transcriptome data pertaining to lung epithelial cells with human interactome to generate Calu-3-specific human-SARS-CoV-2 interactome (CSI). Topological clustering and pathway enrichment analysis show that SARS-CoV-2 targets central nodes of the host-viral network, which participate in core functional pathways. Network centrality analyses discover 33 high-value SARS-CoV-2 targets, which are possibly involved in viral entry, proliferation, and survival to establish infection and facilitate disease progression. Our probabilistic modeling framework elucidates critical regulatory circuitry and molecular events pertinent to COVID-19, particularly the host-modifying responses and cytokine storm. Overall, our network-centric analyses reveal novel molecular components, uncover structural and functional modules, and provide molecular insights into the pathogenicity of SARS-CoV-2 that may help foster effective therapeutic design.
+Notes: Kumar, Nilesh
+Mishra, Bharat
+Mehmood, Adeel
+Mohammad Athar
+M Shahid Mukhtar
+eng
+U54 ES030246/ES/NIEHS NIH HHS/
+2020/09/09
+iScience. 2020 Sep 25;23(9):101526. doi: 10.1016/j.isci.2020.101526. Epub 2020 Sep 3.
+Research Notes: IF:5.8
+URL: https://www.ncbi.nlm.nih.gov/pubmed/32895641
+Author Address: Department of Biology, University of Alabama at Birmingham, 464 Campbell Hall, 1300 University Boulevard, AL 35294, USA.
+Department of Computer Science, University of Alabama at Birmingham, 1402 10th Avenue S., Birmingham, AL 35294, USA.
+Department of Dermatology, School of Medicine, University of Alabama at Birmingham, 1720 University Boulevard, AL 35294, USA.
+Nutrition Obesity Research Center, University of Alabama at Birmingham, 1675 University Boulevard, Birmingham, AL 35294, USA.
+Department of Surgery, University of Alabama at Birmingham, 1808 7th Avenue S, Birmingham, AL 35294, USA.
+Name of Database: PubMed-not-MEDLINE
+Database Provider: NLM
+
+
+Reference Type:  Journal Article
+Record Number: 1001
+Author: Carter, A. M., Tan, C., Pozo, K., Telange, R., Molinaro, R., Guo, A., De Rosa, E., Martinez, J. O., Zhang, S., Kumar, N., Takahashi, M., Wiederhold, T., Ghayee, H. K., Oltmann, S. C., Pacak, K., Woltering, E. A., Hatanpaa, K. J., Nwariaku, F. E., Grubbs, E. G., Gill, A. J., Robinson, B., Gillardon, F., Reddy, S., Jaskula-Sztul, R., Mobley, J. A., Mukhtar, M. S., Tasciotti, E., Chen, H. and Bibb, J. A.
+Year: 2020
+Title: Phosphoprotein-based biomarkers as predictors for cancer therapy
+Journal: Proc Natl Acad Sci U S A
+Volume: 117
+Issue: 31
+Pages: 18401-18411
+Epub Date: 20200720
+Date: Aug 4
+Short Title: Phosphoprotein-based biomarkers as predictors for cancer therapy
+ISSN: 1091-6490 (Electronic)
+0027-8424 (Print)
+0027-8424 (Linking)
+DOI: 10.1073/pnas.2010103117
+Legal Note: The authors declare no competing interest.
+PMCID: PMC7414192
+Accession Number: 32690709
+Keywords: Animals
+Biomarkers/analysis/metabolism
+Cyclin-Dependent Kinase 5/antagonists & inhibitors/genetics/metabolism
+Heterografts
+Humans
+Mice
+Neoplasms/*drug therapy/genetics/*metabolism
+Neuroectodermal Tumors/*drug therapy/genetics/metabolism
+Phosphoproteins/analysis/genetics/*metabolism
+Phosphorylation
+Protein Kinase Inhibitors/*administration & dosage
+cyclin-dependent kinase 5
+neuroendocrine tumors
+predictive biomarkers
+Abstract: Disparities in cancer patient responses have prompted widespread searches to identify differences in sensitive vs. nonsensitive populations and form the basis of personalized medicine. This customized approach is dependent upon the development of pathway-specific therapeutics in conjunction with biomarkers that predict patient responses. Here, we show that Cdk5 drives growth in subgroups of patients with multiple types of neuroendocrine neoplasms. Phosphoproteomics and high throughput screening identified phosphorylation sites downstream of Cdk5. These phosphorylation events serve as biomarkers and effectively pinpoint Cdk5-driven tumors. Toward achieving targeted therapy, we demonstrate that mouse models of neuroendocrine cancer are responsive to selective Cdk5 inhibitors and biomimetic nanoparticles are effective vehicles for enhanced tumor targeting and reduction of drug toxicity. Finally, we show that biomarkers of Cdk5-dependent tumors effectively predict response to anti-Cdk5 therapy in patient-derived xenografts. Thus, a phosphoprotein-based diagnostic assay combined with Cdk5-targeted therapy is a rational treatment approach for neuroendocrine malignancies.
+Notes: Carter, Angela M
+Tan, Chunfeng
+Pozo, Karine
+Telange, Rahul
+Molinaro, Roberto
+Guo, Ailan
+De Rosa, Enrica
+Martinez, Jonathan O
+Zhang, Shanrong
+Kumar, Nilesh
+Takahashi, Masaya
+Wiederhold, Thorsten
+Ghayee, Hans K
+Oltmann, Sarah C
+Pacak, Karel
+Woltering, Eugene A
+Hatanpaa, Kimmo J
+Nwariaku, Fiemu E
+Grubbs, Elizabeth G
+Gill, Anthony J
+Robinson, Bruce
+Gillardon, Frank
+Reddy, Sushanth
+Jaskula-Sztul, Renata
+Mobley, James A
+Mukhtar, M Shahid
+Tasciotti, Ennio
+Chen, Herbert
+Bibb, James A
+eng
+P30 CA016672/CA/NCI NIH HHS/
+P30 CA013148/CA/NCI NIH HHS/
+S10 OD023552/OD/NIH HHS/
+P30 CA142543/CA/NCI NIH HHS/
+R56 CA213859/CA/NCI NIH HHS/
+R01 DA033485/DA/NIDA NIH HHS/
+R01 NS073855/NS/NINDS NIH HHS/
+R01 MH083711/MH/NIMH NIH HHS/
+R56 MH116896/MH/NIMH NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+2020/07/22
+Proc Natl Acad Sci U S A. 2020 Aug 4;117(31):18401-18411. doi: 10.1073/pnas.2010103117. Epub 2020 Jul 20.
+Research Notes: IF:12
+URL: https://www.ncbi.nlm.nih.gov/pubmed/32690709
+Author Address: Department of Surgery, University of Alabama at Birmingham, Birmingham, AL 35233.
+Department of Psychiatry, University of Texas Southwestern Medical Center, Dallas, TX 75390.
+Department of Neuroscience, University of Texas Southwestern Medical Center, Dallas, TX 75390.
+Department of Surgery, University of Texas Southwestern Medical Center, Dallas, TX 75390.
+Regenerative Medicine Program, Houston Methodist Research Institute, Houston, TX 77030.
+Department of Biomolecular Sciences, University of Urbino Carlo Bo, 61029, Urbino, Italy.
+Bluefin Biomedicine, Beverly, MA 01915.
+Department of Nanomedicine, Houston Methodist Research Institute, Houston, TX 77030.
+Advanced Imaging Research Center, University of Texas Southwestern Medical Center, Dallas, TX 75390.
+Department of Biology, University of Alabama at Birmingham, Birmingham, AL 35233.
+Cell Signaling Technology, Danvers, MA 01923.
+Department of Internal Medicine, Division of Endocrinology, University of Florida College of Medicine and Malcom Randall VA Medical Center, Gainesville, FL 32608.
+Harrold B. Simmons Comprehensive Cancer Center, University of Texas Southwestern Medical Center, Dallas, TX 75390.
+Section on Medical Neuroendocrinology, Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD 20892.
+Department of Surgery, Louisiana State University Health Sciences Center, New Orleans, LA 70112.
+Department of Pathology, University of Texas Southwestern Medical Center, Dallas, TX 75390.
+Department of Surgical Oncology, University of Texas MD Anderson Medical Center, Houston, TX 77030.
+Cancer Diagnosis and Pathology Group, Kolling Institute of Medical Research, University of Sydney, 2065 St Leonards, Australia.
+Kolling Institute and Department of Endocrinology, Royal North Shore Hospital, University of Sydney, 2065 St Leonards, Australia.
+Central Nervous System (CNS) Diseases Research, Boehringer Ingelheim Pharma GmbH & Co. KG, 88397 Biberach an der Riss, Germany.
+O'Neal Comprehensive Cancer Center, University of Alabama at Birmingham, Birmingham, AL 35233.
+Department of Anesthesiology and Perioperative Medicine, University of Alabama at Birmingham, Birmingham, AL 35233.
+Houston Methodist Orthopedic and Sports Medicine, Houston Methodist Hospital, Houston, TX 77030.
+Department of Surgery, University of Alabama at Birmingham, Birmingham, AL 35233; jbibb@uab.edu.
+Name of Database: Medline
+Database Provider: NLM
+
+
+Reference Type:  Journal Article
+Record Number: 1005
+Author: Mishra, B., Kumar, N. and Mukhtar, M. S.
+Year: 2019
+Title: Systems Biology and Machine Learning in Plant-Pathogen Interactions
+Journal: Mol Plant Microbe Interact
+Volume: 32
+Issue: 1
+Pages: 45-55
+Epub Date: 20181112
+Date: Jan
+Short Title: Systems Biology and Machine Learning in Plant-Pathogen Interactions
+ISSN: 0894-0282 (Print)
+0894-0282 (Linking)
+DOI: 10.1094/MPMI-08-18-0221-FI
+Accession Number: 30418085
+Keywords: Algorithms
+Gene Regulatory Networks
+*Host-Pathogen Interactions
+*Machine Learning
+Models, Biological
+*Systems Biology
+Abstract: Systems biology is an inclusive approach to study the static and dynamic emergent properties on a global scale by integrating multiomics datasets to establish qualitative and quantitative associations among multiple biological components. With an abundance of improved high throughput -omics datasets, network-based analyses and machine learning technologies are playing a pivotal role in comprehensive understanding of biological systems. Network topological features reveal most important nodes within a network as well as prioritize significant molecular components for diverse biological networks, including coexpression, protein-protein interaction, and gene regulatory networks. Machine learning techniques provide enormous predictive power through specific feature extraction from biological data. Deep learning, a subtype of machine learning, has plausible future applications because a domain expert for feature extraction is not needed in this algorithm. Inspired by diverse domains of biology, we here review classic systems biology techniques applied in plant immunity thus far. We also discuss additional advanced approaches in both graph theory and machine learning, which may provide new insights for understanding plant-microbe interactions. Finally, we propose a hybrid approach in plant immune systems that harnesses the power of both network biology and machine learning, with a potential to be applicable to both model systems and agronomically important crop plants.
+Notes: Mishra, Bharat
+Kumar, Nilesh
+Mukhtar, M Shahid
+eng
+IOS-1557796/National Science Foundation/International
+Research Support, U.S. Gov't, Non-P.H.S.
+Review
+2018/11/13
+Mol Plant Microbe Interact. 2019 Jan;32(1):45-55. doi: 10.1094/MPMI-08-18-0221-FI. Epub 2018 Nov 12.
+Research Notes: IF:4.1
+URL: https://www.ncbi.nlm.nih.gov/pubmed/30418085
+Author Address: 1 Department of Biology, and.
+2 Nutrition Obesity Research Center, University of Alabama at Birmingham, 1300 University Blvd., Birmingham 35294, U.S.A.
+Name of Database: Medline
+Database Provider: NLM
+
+
+Reference Type:  Journal Article
+Record Number: 1007
+Author: Singh, P., Kumar, N., Jethva, M., Yadav, S., Kumari, P., Thakur, A. and Kushwaha, H. R.
+Year: 2018
+Title: Riboswitch regulation in cyanobacteria is independent of their habitat adaptations
+Journal: Physiol Mol Biol Plants
+Volume: 24
+Issue: 2
+Pages: 315-324
+Epub Date: 20180208
+Date: Mar
+Short Title: Riboswitch regulation in cyanobacteria is independent of their habitat adaptations
+ISSN: 0971-5894 (Print)
+0974-0430 (Electronic)
+0974-0430 (Linking)
+DOI: 10.1007/s12298-018-0504-9
+Legal Note: Compliance with ethical standardsThe authors declare that there is no conflict of interest.
+PMCID: PMC5834989
+Accession Number: 29515325
+Keywords: Cobalamin
+Cyanobacteria
+Regulation
+Riboswitch
+Thiamine
+Abstract: Cyanobacteria are one of the ancient bacterial species occupying a variety of habitats with diverse metabolic preferences. RNA regulators like riboswitches play significant role in controlling the gene expression in prokaryotes. The taxonomic distribution of riboswitches suggests that they might be one of the oldest mechanisms of gene control system. In this paper, we analyzed the distribution of different riboswitch families in various cyanobacterial genomes. It was observed that only four riboswitch classes were abundant in cyanobacteria, B(12)-element (Cob)/AdoCbl/AdoCbl-variant riboswitch being the most abundant. The analysis suggests that riboswitch mode of regulation is present in cyanobacterial species irrespective of their habitat types. A large number of unidentified genes regulated by riboswitches listed in this analysis indicate the wide range of targets for these riboswitch families. The analysis revealed a large number of genes regulated by riboswitches which may assist in elaborating the diversity among the cyanobacterial species.
+Notes: Singh, Payal
+Kumar, Nilesh
+Jethva, Minesh
+Yadav, Saurabh
+Kumari, Pragati
+Thakur, Archana
+Kushwaha, Hemant Ritturaj
+eng
+India
+2018/03/09
+Physiol Mol Biol Plants. 2018 Mar;24(2):315-324. doi: 10.1007/s12298-018-0504-9. Epub 2018 Feb 8.
+Research Notes: IF:3.9
+URL: https://www.ncbi.nlm.nih.gov/pubmed/29515325
+Author Address: 1Synthetic Biology and Biofuel, ternational Center for Genetic Engineering and Biotechnology (ICGEB), New Delhi, India. ISNI: 0000 0004 0498 7682. GRID: grid.425195.e
+2Department of Biotechnology, Hemwati Nandan Bahuguna Garhwal University, Srinagar Garhwal, Uttarakhand India. ISNI: 0000 0001 0681 6439. GRID: grid.412161.1
+Indian Agriculture Research Institute, New Delhi, India.
+4University Grants Commission, New Delhi, India. ISNI: 0000 0001 2342 7072. GRID: grid.449692.4
+5School of Biotechnology, Jawaharlal Nehru University, New Delhi, India. ISNI: 0000 0004 0498 924X. GRID: grid.10706.30
+Name of Database: PubMed-not-MEDLINE
+Database Provider: NLM
+
+
+Reference Type:  Journal Article
+Record Number: 1006
+Author: Mishra, B., Sun, Y., Howton, T. C., Kumar, N. and Mukhtar, M. S.
+Year: 2018
+Title: Dynamic modeling of transcriptional gene regulatory network uncovers distinct pathways during the onset of Arabidopsis leaf senescence
+Journal: NPJ Syst Biol Appl
+Volume: 4
+Pages: 35
+Epub Date: 20180831
+Short Title: Dynamic modeling of transcriptional gene regulatory network uncovers distinct pathways during the onset of Arabidopsis leaf senescence
+ISSN: 2056-7189 (Print)
+2056-7189 (Electronic)
+2056-7189 (Linking)
+DOI: 10.1038/s41540-018-0071-2
+Legal Note: The authors declare no competing interests.
+PMCID: PMC6119185
+Accession Number: 30181903
+Abstract: Age-dependent senescence is a multifaceted and highly coordinated developmental phase in the life of plants that is manifested with genetic, biochemical and phenotypic continuum. Thus, elucidating the dynamic network modeling and simulation of molecular events, in particular gene regulatory network during the onset of senescence is essential. Here, we constructed a computational pipeline that integrates senescence-related co-expression networks with transcription factor (TF)-promoter relationships and microRNA (miR)-target interactions. Network structural and functional analyses revealed important nodes within each module of these co-expression networks. Subsequently, we inferred significant dynamic transcriptional regulatory models in leaf senescence using time-course gene expression datasets. Dynamic simulations and predictive network perturbation analyses followed by experimental dataset illustrated the kinetic relationships among TFs and their downstream targets. In conclusion, our network science framework discovers cohorts of TFs and their paths with previously unrecognized roles in leaf senescence and provides a comprehensive landscape of dynamic transcriptional circuitry.
+Notes: Mishra, Bharat
+Sun, Yali
+Howton, T C
+Kumar, Nilesh
+Mukhtar, M Shahid
+eng
+England
+2018/09/06
+NPJ Syst Biol Appl. 2018 Aug 31;4:35. doi: 10.1038/s41540-018-0071-2. eCollection 2018.
+Research Notes: IF:4.3
+URL: https://www.ncbi.nlm.nih.gov/pubmed/30181903
+Author Address: 1Department of Biology, University of Alabama at Birmingham, 1300 University Blvd., Birmingham, AL 35294 USA. ISNI: 0000000106344187. GRID: grid.265892.2
+2Nutrition Obesity Research Center, University of Alabama at Birmingham, 1675 University Blvd., Birmingham, AL 35294 USA. ISNI: 0000000106344187. GRID: grid.265892.2
+Name of Database: PubMed-not-MEDLINE
+Database Provider: NLM
+
+
+Reference Type:  Journal Article
+Record Number: 1008
+Author: Kumar, R., Mishra, B. K., Lahiri, T., Kumar, G., Kumar, N., Gupta, R. and Pal, M. K.
+Year: 2017
+Title: PCV: An Alignment Free Method for Finding Homologous Nucleotide Sequences and its Application in Phylogenetic Study
+Journal: Interdiscip Sci
+Volume: 9
+Issue: 2
+Pages: 173-183
+Epub Date: 20160129
+Date: Jun
+Short Title: PCV: An Alignment Free Method for Finding Homologous Nucleotide Sequences and its Application in Phylogenetic Study
+ISSN: 1867-1462 (Electronic)
+1867-1462 (Linking)
+DOI: 10.1007/s12539-015-0136-5
+Accession Number: 26825665
+Keywords: Algorithms
+Base Sequence
+Computational Biology/*methods
+*Evolution, Molecular
+*Phylogeny
+Sequence Alignment
+Sequence Analysis, DNA/methods
+Molecular phylogeny
+Numerical representation of DNA sequence
+Numerical sequence comparison
+Abstract: Online retrieval of the homologous nucleotide sequences through existing alignment techniques is a common practice against the given database of sequences. The salient point of these techniques is their dependence on local alignment techniques and scoring matrices the reliability of which is limited by computational complexity and accuracy. Toward this direction, this work offers a novel way for numerical representation of genes which can further help in dividing the data space into smaller partitions helping formation of a search tree. In this context, this paper introduces a 36-dimensional Periodicity Count Value (PCV) which is representative of a particular nucleotide sequence and created through adaptation from the concept of stochastic model of Kolekar et al. (American Institute of Physics 1298:307-312, 2010. doi: 10.1063/1.3516320 ). The PCV construct uses information on physicochemical properties of nucleotides and their positional distribution pattern within a gene. It is observed that PCV representation of gene reduces computational cost in the calculation of distances between a pair of genes while being consistent with the existing methods. The validity of PCV-based method was further tested through their use in molecular phylogeny constructs in comparison with that using existing sequence alignment methods.
+Notes: Kumar, Rajnish
+Mishra, Bharat Kumar
+Lahiri, Tapobrata
+Kumar, Gautam
+Kumar, Nilesh
+Gupta, Rahul
+Pal, Manoj Kumar
+eng
+Germany
+2016/01/31
+Interdiscip Sci. 2017 Jun;9(2):173-183. doi: 10.1007/s12539-015-0136-5. Epub 2016 Jan 29.
+Research Notes: IF:4.8
+URL: https://www.ncbi.nlm.nih.gov/pubmed/26825665
+Author Address: Department of Applied Science, Indian Institute of Information Technology - Allahabad, Allahabad, UP, 211012, India.
+Department of Applied Science, Indian Institute of Information Technology - Allahabad, Allahabad, UP, 211012, India. tlahiri@iiita.ac.in.
+Name of Database: Medline
+Database Provider: NLM
+
+
+Reference Type:  Journal Article
+Record Number: 994
+Author: Gupta, C. L., Akhtar, S., Kumar, N., Ali, J., Pathak, N. and Bajpai, P.
+Year: 2016
+Title: In Silico Elucidation and Inhibition Studies of Selected Phytoligands Against Mitogen-Activated Protein Kinases of Protozoan Parasites
+Journal: Interdiscip Sci
+Volume: 8
+Issue: 1
+Pages: 41-52
+Epub Date: 20150812
+Date: Mar
+Short Title: In Silico Elucidation and Inhibition Studies of Selected Phytoligands Against Mitogen-Activated Protein Kinases of Protozoan Parasites
+ISSN: 1867-1462 (Electronic)
+1867-1462 (Linking)
+DOI: 10.1007/s12539-015-0269-6
+Accession Number: 26264054
+Keywords: Amino Acid Sequence
+Animals
+Antiparasitic Agents/chemistry/pharmacology
+*Computer Simulation
+Humans
+Ligands
+Mitogen-Activated Protein Kinases/*antagonists & inhibitors/metabolism
+Molecular Docking Simulation
+Molecular Sequence Data
+Parasites/drug effects/*enzymology
+Phylogeny
+Phytochemicals/chemistry/*pharmacology
+Protein Kinase Inhibitors/*chemistry/*pharmacology
+Reproducibility of Results
+Sequence Alignment
+Structural Homology, Protein
+Thermodynamics
+Mitogen-activated protein kinases
+Molecular docking
+Molecular modeling
+Phylogenetic analysis
+Phytoligands
+Protozoan parasite
+Abstract: Parasitic MAPKs exhibiting significant divergence with humans and playing an imperative role in parasitic metabolic activities have been exploited from several years as important targets for development of novel therapeutics. In addition, the emergence of the drug-resistant variants of parasitic diseases in the recent years has aroused a great need for the development of potent inhibitors against them. In the present study, we selected the metabolically active MAPKs LmxMPK4, PfMAP2 and TbMAPK5 of the three parasitic protozoans Leishmania mexicana, Plasmodium falciparum and Trypanosoma brucei, respectively. The homology modeling technique was used to develop the 3D structures of these proteins, and the same was validated by PROCHECK, ERRAT, ProQ and ProSA web servers to check the reliability. Ten phytoligands were employed for molecular docking studies with these proteins to search for potent phytoligand as a broad spectrum inhibitor. In this regard, two phytoligands (aspidocarpine for LmxMPK4 and TbMAPK5 and cubebin for PfMAP2) were found to be more effective inhibitors, in terms of robust binding energy, strong inhibition constant and better interactions between protein-ligand complexes. Furthermore, predicted ADME and toxicity properties suggested that these identified phytoligands exhibited comparable results to control drugs potentiating them as persuasive therapeutic agents for Leishmania, Trypanosoma and Plasmodium sp.
+Notes: Gupta, Chhedi Lal
+Akhtar, Salman
+Kumar, Nilesh
+Ali, Jasarat
+Pathak, Neelam
+Bajpai, Preeti
+eng
+Research Support, Non-U.S. Gov't
+Germany
+2015/08/13
+Interdiscip Sci. 2016 Mar;8(1):41-52. doi: 10.1007/s12539-015-0269-6. Epub 2015 Aug 12.
+Research Notes: IF:4.8
+URL: https://www.ncbi.nlm.nih.gov/pubmed/26264054
+Author Address: Department of Biosciences, Integral University, Lucknow, 226026, India.
+Department of Bioengineering, Integral University, Lucknow, 226026, India.
+Department of Bioinformatics, Indian Institute of Information Technology, Allahabad, 211012, India.
+Department of Biosciences, Integral University, Lucknow, 226026, India. preeti2874@gmail.com.
+Name of Database: Medline
+Database Provider: NLM
+
+
